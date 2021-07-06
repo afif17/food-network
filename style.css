@@ -1,0 +1,151 @@
+*{  
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+
+}
+h1{
+    font-size: 75px;
+}
+
+.ptag{
+    font-size: 25px;
+}
+.header-font{
+    
+    color: rgb(77, 77, 77);
+}
+.light-grey{
+    color: grey;
+}
+.orange{
+    color: orange;
+}
+
+.devider{
+    width: 1920px;
+    height: 1080px;
+    display: flex;
+    margin-top: 2%;
+
+}
+.header-text{
+    width: 50%;
+    padding-top: 9%;
+    padding-left: 5%;
+
+}
+.half-split{
+    width: 50%;
+   
+    }
+.half-split img{
+    width: 90%;
+}
+
+
+.glow-button{
+    background-image: linear-gradient(to right,orange,tomato);
+    padding: 30px 50px;
+    border-radius: 30px;
+    text-decoration: none;
+    color: white;
+
+}
+.shadow{
+    box-shadow: 0 0 30px rgb(230, 128, 60);
+}
+
+.aboutme-text{
+    width: 50%;
+    padding-top: 9%;
+    
+    padding-bottom:20px;
+    
+
+}
+.about-me-banner{
+    background-image: url(food-network-main/images/shapes/7_1920_person.png);
+    background-repeat: no-repeat;
+    
+    
+    
+}
+
+
+/*recipe-menu*/
+.my-recipe{
+    width: 1920px;
+    height: 150px;
+ text-align: center;
+ 
+}
+
+
+.boxes{
+    width: 70%;
+    display: flex;
+    margin-bottom: 150px;
+    margin-top: 100px;
+    padding-left: 16%;
+}
+
+.box-width{
+    width: 25%;
+    height: 500px;
+    margin: 30px;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    padding-top: 1.5%;
+    box-shadow: 0 0 35px grey;
+    border-radius: 20px;
+}
+.food-images{
+    /*height: fit-content;
+    width: fit-content;*/
+    border-radius: 10px;
+    
+}
+
+
+/*subscribe area*/
+
+
+
+h2{
+    font-size: 40px;
+}
+.last-para{
+    height: 150px;
+    margin-top: 50px;
+    margin-left:400px;
+    margin-right: 400px;
+    margin-bottom: 70px;
+    padding-left: 150px;
+    padding-top: 70px;
+    padding-bottom: 20px;
+      /* border: 20px solid black;*/
+   border-radius: 20px;
+    box-shadow: 0 0 40px grey;
+}
+
+
+/*footer work*/
+
+footer h3{
+    font-size: 40px;
+    color: white;
+}
+
+footer p{
+    color: white;
+}
+
+.black{
+
+    width: 1920;
+    height: 300px;
+    background-image:linear-gradient(black,black);
+}
+    
+
+    
