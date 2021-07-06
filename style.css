@@ -93,18 +93,30 @@ h1{
     width: 25%;
     height: 500px;
     margin: 30px;
-    padding-left: 1.5%;
-    padding-right: 1.5%;
-    padding-top: 1.5%;
+    padding-left: 2%;
+    padding-right: 1%;
+    padding-top: 2%;
     box-shadow: 0 0 35px grey;
     border-radius: 20px;
 }
 .food-images{
-    /*height: fit-content;
-    width: fit-content;*/
+    height: fit-content;
+    width: fit-content;
     border-radius: 10px;
     
+    
 }
+
+.fimages1{
+    padding-bottom: 20px;
+    padding-left: 3px;
+}
+.fimages2{
+    padding-bottom: 38px;
+    padding-left:2px;
+
+}
+
 
 
 /*subscribe area*/
